@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 2rem;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+}
+
+input[type="text"],
+button {
+  margin-top: 25px;
+  font-size: 16px;
+  padding: 10px;
+}
+
+button {
+  margin-top: 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(134, 134, 134);
+  border-radius: 20%;
+  border-color: white;
+}
